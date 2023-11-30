@@ -1,0 +1,3 @@
+#!/usr/bin/em, bash
+# This script makes localhost listen on port 98
+nc -1 localhost 98
